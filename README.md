@@ -41,4 +41,3 @@
 - Van Halen
 - Warrant
 - White Snake
-- 
