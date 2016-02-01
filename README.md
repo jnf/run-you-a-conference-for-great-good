@@ -1,5 +1,5 @@
 # Run You a Conference For Great Good
-- Where's the money come form?
+- Where's the money come from?
 - What should you throw money at?
 - Aftercare for Your Conference Organizer
 - Taking Care of Business
@@ -15,7 +15,7 @@
 - Choosing Presenters
     + Running a CFP
     + Inviting Folks
-- The Minimium Viable Conference
+- The Minimum Viable Conference
     + Secure A Location
     + Secure Some Funding
     + Be Able To Collect Money
@@ -23,7 +23,7 @@
     + Choose Your Format
     + Choose Your Presenters
     + Protect Your Investment
-    + 
+    +
 - Decisions We Could Have Made, But Didn't
     + Wifi
     + After Party
