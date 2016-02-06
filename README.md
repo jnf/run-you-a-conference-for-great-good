@@ -20,6 +20,7 @@
 ### Business Licenses
 ### Bank Accounts
 ### Accountants & Taxes
+### Insurance
 
 ## Managing Organizer Expectations
 ### Decision making
