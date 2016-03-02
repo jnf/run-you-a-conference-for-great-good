@@ -69,7 +69,7 @@ For example, most of the organizers of OSFeels are Rubyists, but by getting a fe
     + submit slides for review?
     + attend a conference event to meet-n-greet
     + will you be video taping? will talks then be freely available? Get a release!
-  + what compensation (honorium? travel? hotel? free ticket at least?) are you offering?
+  + what compensation (honorarium? travel? hotel? free ticket at least?) are you offering?
 + offer example questions you want talks to address, or generic topics you'd like submissions on - don't expect speakers to work in a vacuum building custom content for your community
 + have a link to your CoC to remind folks of content expectations
 
