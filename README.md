@@ -108,6 +108,19 @@ Although not expressly captured in our mission statement, given the often person
 One response we received to this policy was "But what if I had a work emergency?" If you attend a conference and are in a job that requires you to be on call, we assume you have means to do so, like a mifi or tethered phone.. and besides, its Seattle. Throw a rock in any direction and you'll hit a coffeeshop with free wifi where you can go and not take away from the communities experience.
 
 ### After Party
+I, Kerri, love to drink. Jeremy, you enjoy a wee tipple from time to time, yes?
+
+Not everyone does. There are lots of reasons why people don't like to drink, or don't like to be around alcohol. Beyond that, most after parties are loud, raucous events - they can be rough on those of us who are hard of hearing or are less outgoing. More and more conferences are choosing to make sure that their after parties are more inclusive, such as having an after party be a board game party, or as Madison Ruby did, got access to a children's museum after its regular hours - FUN!
+
+Primarily we decided to not have an after party for very practical reasons -- we couldn't find a venue on a Friday or Saturday night on Capitol Hill that was affordable, and while we did have a couple leads, it became clear that we didn't have the people power to handle the logistics. We needed to think about
+
++ hours of access - could we have the space as late as we wanted?
++ accessibility - could a person with a cane, walker, or wheelchair easily get around the space?
++ safety - could we (or our private security guards) monitor who was coming and going effectively?
++ location - is it near the venue, or are there low friction transit options?
+
+We didn't find a suitable location until the week before the conference, and by that point we realized that we didn't have enough time (or energy!) left to pull off a really great event. I wish we had, though - a good event where attendees could socialize and continue to feel part of a temporary community of conference attendees would've really been a big win, and planning a solid after party is already on the list for next time around.
+
 ### T-Shirts/Swag
 ### Conference Hotel
 ### Feeding Folks
