@@ -19,17 +19,17 @@
 The least fun, for me anyway, is managing the business aspects of running a conference. Anytime you ask people for money in exchange for goods and services, you're gonna have some business concerns. And some liability. Protect yourself, your event, and your community by doing the research and planning ahead.
 
 ### LLC
-Creating an LLC is surprisingly easy. It's a couple of forms on the internet for the state and federal governement. Doing so gave us an entity that:
+Creating an LLC is surprisingly easy. It's a couple of forms on the internet for the state and federal government. Doing so gave us an entity that:
 
 1. Let us collect money
 2. Let us spend money
 3. Provide liability protection for ourselves and our families
 
 ### Accountants & Taxes
-Those are pretty important things for a conference. Also, please don't forget to follow up with a tax accountant in your area. Earmark some money for them early on as they will repeatedly (and patiently, if you're lucky) remind you of all the nitpicky tax stuff that will come up. Depending on your location and plans, you may have to do things like collect and pay sales tax, use tax, amusement tax, income tax, or some combination of taxes. If you're not a tax professional, hire one.
+Those are pretty important things for a conference. Also, please don't forget to follow up with a tax accountant in your area. Earmark some money for them early on as they will repeatedly (and patiently, if you're lucky) remind you of all the nit-picky tax stuff that will come up. Depending on your location and plans, you may have to do things like collect and pay sales tax, use tax, amusement tax, income tax, or some combination of taxes. If you're not a tax professional, hire one.
 
 ### Bank Accounts
-As soon as you have a federal tax ID for the LLC, go open a bank account. Turns out opening a "business checking" account is moderately more involved than a personal checking account. Took me three trips to the bank to finally get it right. Seperate accounts for the LLC means no cloudiness in what is conference money and what isn't. If it's a conference expense, it's paid with conference money from the LLC bank accounts and documented in the budget. Setting clear expectations and patterns here provides both an excellent paper trail for your accountant (they will thank you) and should guide any conversation about when/where/on whom conference money is spent.
+As soon as you have a federal tax ID for the LLC, go open a bank account. Turns out opening a "business checking" account is moderately more involved than a personal checking account. Took me three trips to the bank to finally get it right. Separate accounts for the LLC means no cloudiness in what is conference money and what isn't. If it's a conference expense, it's paid with conference money from the LLC bank accounts and documented in the budget. Setting clear expectations and patterns here provides both an excellent paper trail for your accountant (they will thank you) and should guide any conversation about when/where/on whom conference money is spent.
 
 ### Business Licenses
 In pursuit of Minimum Viable Conference, I asked our first sponsor (the illustrious Starr Horne @ Honeybadger) what he needed from us to be able to give us a check. His answer was a tax id and mailing address. So I did exactly enough work to make those happen. I got the LLC put together, registered for a federal tax id, and sent Starr an invoice. He promptly paid and his early confidence got us off the ground.
@@ -90,7 +90,7 @@ When we did that for OSFeels, a number of items that other conferences frequentl
 ### Wifi
 90% of conferences offer wifi, either a dedicated network provided by the venue, or a special access point brought in especially for the event. 90% of those end up being nearly immediately saturated with traffic, from work laptops, tablets, phones, and who knows what other devices that people tote to the conference space. Conference wifi is usually so bad that it's an unfunny joke to complain about it being crappy.
 
-Ultimately we decided to not offer wifi, and to not pass out the venue access credentials unless someone asked us directly. In our post-conference feedback questionaire, a number of attendees pointed this out as something they wished we would change, but we had good reasons.
+Ultimately we decided to not offer wifi, and to not pass out the venue access credentials unless someone asked us directly. In our post-conference feedback questionnaire, a number of attendees pointed this out as something they wished we would change, but we had good reasons.
 
 #### The venue's wifi wasn't super awesome
 It was decent enough for the 10-15 people who needed it, primarily organizers and a few of our speakers, but having 200 people saturating it would make for a miserable experience.
