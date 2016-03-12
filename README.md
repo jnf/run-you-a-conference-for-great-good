@@ -39,6 +39,19 @@ Turns out, while that was enough on Starr's end, there were a few more things fo
 ### Insurance
 Every venue I've worked with has included a clause in their contract requiring the LLC to secure "event insurance." This is a liability policy that protects the venue in the case of something going terribly, terribly wrong. To set this up, you'll need twenty minutes, a telephone, and probably something like $100. It's refreshingly inexpensive, wholly mundane, and everyone will feel better when it's in place. I picked our insurance agent because the name of the agency made me laugh (Tripple, Tripple & Tripple). Our two-day, single-track event for 300 people cost us about $90 to meaningfully insure.
 
+## Money is an unfortunate side effect of conference organizing
+### Invent a budget.
+When you get started, you'll have no ideas how much anything is gonna cost. That's ok. Sit down in front of a spreadsheet and dream up some numbers. A half hour of internet research will get you a basic idea of what banquet halls go for in your area. Ditto catering, renting transportation, hotel blocks, and tshirt printing. Whatever it is you're interested in.
+
+Put each item that either costs of makes money in one column in the spreadsheet. The next column is your best guess--educated or otherwise--on how much you'll spend or make on that thing. The third and fourth columns are blank. They are what the thing actually costs or brings in and on what day that must happen, respectively. Tally the moneies in a another row or column and congratualtions, you've got a working budget. This isn't a line-item ledger of expenditure; it's a high-level accounting of how money is entering and exiting your accounts.
+
+There were more than a few decisions at OS&F last year that hinged on _when_ money was available.
+> Yeah, we end up net-positive whether we bought Item X or not, if I buy Item X today, can we pay Vendor Y tomorrow?
+
+![Our Budget Headers](./budget-headers.png)
+
+Have that budget open in front of you during every organizer meeting. Decisions are driven by the organization mission and the available budget.
+
 ## Managing Organizer Expectations
 ### Decision making
 ### Discussions around shared values/goals
