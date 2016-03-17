@@ -1,5 +1,5 @@
 # The Minimum Viable Conference, an Outline
-## Theme: Making Decisions in support of our Missions and Values
+__Theme: Making Decisions in support of our Mission and Values__
 
 1. [First things First](first-things-first.md) (kerri)
 1. [Secure A Location](secure-a-location.md) (jeremy)
