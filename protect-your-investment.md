@@ -25,7 +25,7 @@ Every venue I've worked with has included a clause in their contract requiring t
 ## Money is an unfortunate side effect of conference organizing
 When you get started, you'll have no ideas how much anything is gonna cost. That's ok. Sit down in front of a spreadsheet and dream up some numbers. A half hour of internet research will get you a basic idea of what banquet halls go for in your area. Ditto catering, renting transportation, hotel blocks, and tshirt printing. Whatever it is you're interested in.
 
-Put each item that either costs of makes money in one column in the spreadsheet. The next column is your best guess--educated or otherwise--on how much you'll spend or make on that thing. The third and fourth columns are blank. They are what the thing actually costs or brings in and on what day that must happen, respectively. Tally the moneies in a another row or column and congratualtions, you've got a working budget. This isn't a line-item ledger of expenditure; it's a high-level accounting of how money is entering and exiting your accounts.
+Put each item that either costs of makes money in one column in the spreadsheet. The next column is your best guess--educated or otherwise--on how much you'll spend or make on that thing. The third and fourth columns are blank. They are what the thing actually costs or brings in and on what day that must happen, respectively. Tally the monies in a another row or column and congratulations, you've got a working budget. This isn't a line-item ledger of expenditure; it's a high-level accounting of how money is entering and exiting your accounts.
 
 There were more than a few decisions at OS&F last year that hinged on _when_ money was available.
 
