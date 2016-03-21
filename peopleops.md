@@ -1,17 +1,17 @@
 # PeopleOps: Managing Organizer Expectations
-Like most endeavors, the real challenge is in the relationships. Every organizer will bring with them a unique vision of the event, a set of goals and anxieties, and a different combination of skills. 
+Like most endeavors, the real challenge is in the relationships. Every organizer will bring with them a unique vision of the event, a set of goals and anxieties, and a different combination of skills.
 
 When we started this thing, we approached it like a bunch of open source developers starting a new project. Because that's what we were. We applied our understanding of work to the task at hands. Our organizer meetings were like sprint planning. Slack became an asynchronous swirl of half-conversations, standup-style checkins, and in-jokes.
 
 In our day-jobs as developers, certainly folks are empowered to steer the ship. The hierarchy is often formal, with project managers, team leads, and dev managers. These power structures come with their own problems, but, in their absence, projects will often spiral out of control.
 
-For OS&F, difficuties with decision making, accountability, and communication breakdowns slowed our efforts. Given that we were 100% volunteer driven, how were we to hold folks accountable for missing a deadline or not completing a task?
+For OS&F, difficulties with decision making, accountability, and communication breakdowns slowed our efforts. Given that we were 100% volunteer driven, how were we to hold folks accountable for missing a deadline or not completing a task?
 
 As the months wore on, it became apparent that our defacto mode of consensus building for every decision was not going to work. There just wasn't enough time to discuss and reach consensus on every detail. So folks took chances. Kerri and I designed and ordered the attendee badges without involving the other organizers. Utah pushed ahead with converting the restrooms at the venue to be all-gender. I'm pretty sure I asked someone if it was cool to give free tickets to all my students, but I'm not positive who or when or what they said.
 
 Acting in this manner had consequences. Relationships were strained and damaged. Meetings grew tense, and asking for an update on a task could result in that task being unceremoniously dumped in your lap. It wasn't fun, and organizing became a chore, a job, a necessity to see the thing through.
 
-And we did. We presevered, and through equal parts grit and luck, kept the promises we'd made to attendees, speakers, and each other.
+And we did. We persevered, and through equal parts grit and luck, kept the promises we'd made to attendees, speakers, and each other.
 
 About a month after the conference, we held a formal retrospective. We brought in (and paid) a professional facilitator to lead discussions. Our goal was to identify the pain and pleasure points of organizing, and identify the things we'd want to do differently next year. It was a good idea, and even if your organizing efforts are all sunshine and rainbows, take the time to review and reflect on that effort. Maybe future efforts could be even better.
 
@@ -45,7 +45,7 @@ We decided to run a CFP.
     - Exact details of participation TBD
     - More discussion needed, but we know we would like them to be involved
 
-Etc. These look like _notes,_ and they are, but they're notes about _decisions_. By attaching names to these notes/decisions, we can introduce some accountability. I'm a volunteer and if I couldn't get our CFP software up and running by 3/7, no one is gonna fire me. But it will be something we have to talk about at the next meeting. I will feel some obligation to put in the time to get it done; it's in my nature. Put my name on a task and I feel some ownership. It's outcome is attached to my sense of accomplishment, and I don't want to let my co-organizers down.
+Etc. These look like _notes_, and they are, but they're notes about _decisions_. By attaching names to these notes/decisions, we can introduce some accountability. I'm a volunteer and if I couldn't get our CFP software up and running by 3/7, no one is gonna fire me. But it will be something we have to talk about at the next meeting. I will feel some obligation to put in the time to get it done; it's in my nature. Put my name on a task and I feel some ownership. It's outcome is attached to my sense of accomplishment, and I don't want to let my co-organizers down.
 
 ### Empower People, Especially First-Time Organizers
 As a signatory on the bank account and the LLC, I became a bottleneck and pressure point on a lot of decisions. If it involved money, it would eventually have to filter through me and I was perceived as having a kind of implicit veto. If I disagreed with something, I could just not write the check, effectively disenfranchising my co-organizers and devaluing their efforts. This was especially daunting for first-time organizers.
